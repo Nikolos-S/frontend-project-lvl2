@@ -1,0 +1,28 @@
+[
+  {
+    "name": "follow",
+    "type": "deleted",
+    "value": false
+  },
+  {
+    "name": "host",
+    "type": "unchanged",
+    "value": "yandex.ru"
+  },
+  {
+    "name": "proxy",
+    "type": "deleted",
+    "value": "123.234.53.22"
+  },
+  {
+    "name": "timeout",
+    "type": "changed",
+    "value1": 50,
+    "value2": 20
+  },
+  {
+    "name": "verbose",
+    "type": "added",
+    "value": true
+  }
+]
